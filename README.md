@@ -17,7 +17,7 @@
 * Boston Housing
 * mse = 21, 35 y 25
 
-Los siguientes ejemplos son para predecir la funcion seno utilizando keras, algunos programas predicen un valor y otros predicen un vector
+Los siguientes ejemplos son para predecir la funcion seno utilizando keras, algunos programas predicen un valor escalar y otros predicen un vector
 
 ### SenoMLP_Escalar.ipynb
 * mse = 0.0017
@@ -27,6 +27,9 @@ Los siguientes ejemplos son para predecir la funcion seno utilizando keras, algu
 
 ### SenoMLP_Escalar_Division.ipynb
 * mse = 0.0108
+
+### SenoMLP_Vector_Division.ipynb
+* mse = 0.0045
 
 ### SenoCNN_RNN_Escalar.ipynb
 * CNN-1D, LSTM y GRU
